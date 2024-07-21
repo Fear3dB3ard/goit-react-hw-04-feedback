@@ -1,0 +1,11 @@
+.options {
+    margin: 20px 0;
+  }
+  
+  button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
